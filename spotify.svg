@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273cdba7ee22968991250725ce1" xlink:href="https://i.scdn.co/image/ab67616d0000b273cdba7ee22968991250725ce1" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Drowning (feat. Kodak Black)</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">A Boogie Wit da Hoodie, Kodak Black</text>
-<a href="https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273053491131955d059d22a97d7" xlink:href="https://i.scdn.co/image/ab67616d0000b273053491131955d059d22a97d7" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">pinKing</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">HOYO-MiX, Sān-Z</text>
-<a href="https://open.spotify.com/track/472uIrS3p6rytyT5uahR7Q"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2732b54fd5d5c38a38eba502188" xlink:href="https://i.scdn.co/image/ab67616d0000b2732b54fd5d5c38a38eba502188" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">オメガリズム</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">UPLIFT SPICE</text>
-<a href="https://open.spotify.com/track/6QnL8A6cIDFHXEdqEaHfrm"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273d71845bf949eb9130ef61481" xlink:href="https://i.scdn.co/image/ab67616d0000b273d71845bf949eb9130ef61481" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">灼熱にて純情(wii-wii-woo)</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Hoshimachi Suisei</text>
+<a href="https://open.spotify.com/track/6JZ2uj3mIdsxL1gyqtCNE7"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273cdba7ee22968991250725ce1" xlink:href="https://i.scdn.co/image/ab67616d0000b273cdba7ee22968991250725ce1" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Drowning (feat. Kodak Black)</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">A Boogie Wit da Hoodie, Kodak Black</text>
+<a href="https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273053491131955d059d22a97d7" xlink:href="https://i.scdn.co/image/ab67616d0000b273053491131955d059d22a97d7" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">pinKing</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">HOYO-MiX, Sān-Z</text>
+<a href="https://open.spotify.com/track/472uIrS3p6rytyT5uahR7Q"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
