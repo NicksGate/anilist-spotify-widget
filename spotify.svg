@@ -1,7 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="510" viewBox="0 0 800 510">
-<rect width="800" height="510" rx="24" fill="#121212"/><rect x="1" y="1" width="798" height="508" rx="23" fill="none" stroke="#303030"/>
-<circle cx="45" cy="43" r="18" fill="#1DB954"/><path d="M35 39 Q45 34 55 40 M37 45 Q45 41 53 46 M39 50 Q45 47 51 51" fill="none" stroke="#101010" stroke-width="2.5" stroke-linecap="round"/>
-<text x="75" y="40" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="23" font-weight="700">MY SPOTIFY</text><text x="75" y="59" fill="#B3B3B3" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">LISTENING STATUS</text>
-<text x="28" y="102" fill="#1DB954" font-family="Arial,sans-serif" font-size="13" font-weight="700">NOW PLAYING</text><text x="28" y="165" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22">Your widget is being set up...</text>
-<text x="28" y="313" fill="#B3B3B3" font-family="Arial,sans-serif" font-size="13" font-weight="700">LAST 3 TRACKS</text><text x="28" y="350" fill="#B3B3B3" font-family="Arial,sans-serif" font-size="15">Your real listening data will appear here.</text>
+<rect width="800" height="510" rx="24" fill="#121212"/>
+<rect x="1" y="1" width="798" height="508" rx="23" fill="none" stroke="#303030"/>
+<circle cx="45" cy="43" r="18" fill="#1DB954"/>
+<path d="M35 39 Q45 34 55 40 M37 45 Q45 41 53 46 M39 50 Q45 47 51 51" fill="none" stroke="#101010" stroke-width="2.5" stroke-linecap="round"/>
+<text x="75" y="40" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">MY SPOTIFY</text>
+<text x="75" y="59" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">LISTENING STATUS</text>
+<rect x="650" y="27" width="115" height="28" rx="14" fill="#1D3B2A"/>
+<circle cx="666" cy="41" r="4" fill="#1DB954"/>
+<text x="678" y="45" fill="#1DB954" font-family="Arial, sans-serif" font-size="11" font-weight="700">AUTO UPDATE</text>
+<text x="28" y="102" fill="#1DB954" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">NOW PLAYING</text>
+<rect x="28" y="120" width="138" height="138" rx="8" fill="#282828"/>
+<text x="97" y="190" text-anchor="middle" fill="#777777" font-family="Arial, sans-serif" font-size="14">♫</text>
+<text x="188" y="169" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">Nothing playing right now</text>
+<text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
+<line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
+<text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
+<image href="https://i.scdn.co/image/ab67616d0000b27364381fb5ba549f149ae74560" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Readymade</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ado</text>
+<a href="https://open.spotify.com/track/3gKtkQp6cQ4wqsx3bzs4tk"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">残機</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">ZUTOMAYO</text>
+<a href="https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27341b28511d668a430b2d07a64" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">君にふれて</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">安月名莉子</text>
+<a href="https://open.spotify.com/track/5vm69oro4cROnjreUg2sy1"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
