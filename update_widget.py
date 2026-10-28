@@ -59,7 +59,7 @@ def artists(item):
 def render_svg(current, recent):
     width, height = 800, 510
     out = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
         '<rect width="800" height="510" rx="24" fill="#121212"/>',
         '<rect x="1" y="1" width="798" height="508" rx="23" fill="none" stroke="#303030"/>',
         '<circle cx="45" cy="43" r="18" fill="#1DB954"/>',
@@ -78,7 +78,7 @@ def render_svg(current, recent):
         link = (item.get("external_urls") or {}).get("spotify", "https://open.spotify.com/")
         art = get_art(item)
         if art:
-            out.append(f'<image href="{safe(art)}" x="28" y="120" width="138" height="138" preserveAspectRatio="xMidYMid slice"/>')
+            out.append(f'<image href="{safe(art)}" xlink:href="{safe(art)}" x="28" y="120" width="138" height="138" preserveAspectRatio="xMidYMid slice"/>')
         else:
             out.append('<rect x="28" y="120" width="138" height="138" rx="8" fill="#282828"/>')
         out += [
@@ -109,7 +109,7 @@ def render_svg(current, recent):
         link = (item.get("external_urls") or {}).get("spotify", "https://open.spotify.com/")
         art = get_art(item)
         if art:
-            out.append(f'<image href="{safe(art)}" x="28" y="{y}" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>')
+          out.append(f'<image href="{safe(art)}" xlink:href="{safe(art)}" x="28" y="{y}" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>')
         else:
             out.append(f'<rect x="28" y="{y}" width="40" height="40" rx="4" fill="#282828"/>')
         out += [
