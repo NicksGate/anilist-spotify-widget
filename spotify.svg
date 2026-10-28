@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="510" viewBox="0 0 800 510">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="510" viewBox="0 0 800 510">
 <rect width="800" height="510" rx="24" fill="#121212"/>
 <rect x="1" y="1" width="798" height="508" rx="23" fill="none" stroke="#303030"/>
 <circle cx="45" cy="43" r="18" fill="#1DB954"/>
@@ -15,15 +15,15 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b27364381fb5ba549f149ae74560" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<image href="https://i.scdn.co/image/ab67616d0000b27364381fb5ba549f149ae74560" xlink:href="https://i.scdn.co/image/ab67616d0000b27364381fb5ba549f149ae74560" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
 <text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Readymade</text>
 <text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ado</text>
 <a href="https://open.spotify.com/track/3gKtkQp6cQ4wqsx3bzs4tk"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<image href="https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b" xlink:href="https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
 <text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">残機</text>
 <text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">ZUTOMAYO</text>
 <a href="https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b27341b28511d668a430b2d07a64" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<image href="https://i.scdn.co/image/ab67616d0000b27341b28511d668a430b2d07a64" xlink:href="https://i.scdn.co/image/ab67616d0000b27341b28511d668a430b2d07a64" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
 <text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">君にふれて</text>
 <text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">安月名莉子</text>
 <a href="https://open.spotify.com/track/5vm69oro4cROnjreUg2sy1"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
