@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="510" viewBox="0 0 800 510">
+<rect width="800" height="510" rx="24" fill="#121212"/><rect x="1" y="1" width="798" height="508" rx="23" fill="none" stroke="#303030"/>
+<circle cx="45" cy="43" r="18" fill="#1DB954"/><path d="M35 39 Q45 34 55 40 M37 45 Q45 41 53 46 M39 50 Q45 47 51 51" fill="none" stroke="#101010" stroke-width="2.5" stroke-linecap="round"/>
+<text x="75" y="40" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="23" font-weight="700">MY SPOTIFY</text><text x="75" y="59" fill="#B3B3B3" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">LISTENING STATUS</text>
+<text x="28" y="102" fill="#1DB954" font-family="Arial,sans-serif" font-size="13" font-weight="700">NOW PLAYING</text><text x="28" y="165" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22">Your widget is being set up...</text>
+<text x="28" y="313" fill="#B3B3B3" font-family="Arial,sans-serif" font-size="13" font-weight="700">LAST 3 TRACKS</text><text x="28" y="350" fill="#B3B3B3" font-family="Arial,sans-serif" font-size="15">Your real listening data will appear here.</text>
+</svg>
