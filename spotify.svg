@@ -9,24 +9,23 @@
 <circle cx="666" cy="41" r="4" fill="#1DB954"/>
 <text x="678" y="45" fill="#1DB954" font-family="Arial, sans-serif" font-size="11" font-weight="700">AUTO UPDATE</text>
 <text x="28" y="102" fill="#1DB954" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">NOW PLAYING</text>
-<image href="https://i.scdn.co/image/ab67616d0000b27392c78f06ad38c601174e6cd0" xlink:href="https://i.scdn.co/image/ab67616d0000b27392c78f06ad38c601174e6cd0" x="28" y="120" width="138" height="138" preserveAspectRatio="xMidYMid slice"/>
-<a href="https://open.spotify.com/track/5om9k5TDJvmVvrZW9td2wI"><text x="188" y="161" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="25" font-weight="700">キャラメルヘヴン</text></a>
-<text x="188" y="190" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="17">Last Note.</text>
-<text x="188" y="222" fill="#1DB954" font-family="Arial, sans-serif" font-size="13">▶ PLAYING NOW</text>
-<text x="188" y="246" fill="#777777" font-family="Arial, sans-serif" font-size="11">first trip</text>
+<rect x="28" y="120" width="138" height="138" rx="8" fill="#282828"/>
+<text x="97" y="190" text-anchor="middle" fill="#777777" font-family="Arial, sans-serif" font-size="14">♫</text>
+<text x="188" y="169" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">Nothing playing right now</text>
+<text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b" xlink:href="https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">残機</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">ZUTOMAYO</text>
-<a href="https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358" xlink:href="https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Feel Good Inc.</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Gorillaz, De La Soul</text>
-<a href="https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" xlink:href="https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Heat Waves</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Glass Animals</text>
-<a href="https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273cfeb267817b86b8c66cc0311" xlink:href="https://i.scdn.co/image/ab67616d0000b273cfeb267817b86b8c66cc0311" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">プロポーズ</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">9Lana</text>
+<a href="https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2737ac841876cee380bbeb3fdc1" xlink:href="https://i.scdn.co/image/ab67616d0000b2737ac841876cee380bbeb3fdc1" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Rebellion</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ado</text>
+<a href="https://open.spotify.com/track/0uRSxWD7tGKceffpOeLUFn"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b" xlink:href="https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">残機</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">ZUTOMAYO</text>
+<a href="https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
