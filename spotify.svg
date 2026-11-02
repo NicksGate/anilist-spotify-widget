@@ -9,23 +9,24 @@
 <circle cx="666" cy="41" r="4" fill="#1DB954"/>
 <text x="678" y="45" fill="#1DB954" font-family="Arial, sans-serif" font-size="11" font-weight="700">AUTO UPDATE</text>
 <text x="28" y="102" fill="#1DB954" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">NOW PLAYING</text>
-<rect x="28" y="120" width="138" height="138" rx="8" fill="#282828"/>
-<text x="97" y="190" text-anchor="middle" fill="#777777" font-family="Arial, sans-serif" font-size="14">♫</text>
-<text x="188" y="169" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">Nothing playing right now</text>
-<text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
+<image href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" xlink:href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" x="28" y="120" width="138" height="138" preserveAspectRatio="xMidYMid slice"/>
+<a href="https://open.spotify.com/track/7weHG0yOwtAcZ0qBhyODLF"><text x="188" y="161" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="25" font-weight="700">Hero&#x27;s Come Back!!</text></a>
+<text x="188" y="190" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="17">nobodyknows+</text>
+<text x="188" y="222" fill="#1DB954" font-family="Arial, sans-serif" font-size="13">▶ PLAYING NOW</text>
+<text x="188" y="246" fill="#777777" font-family="Arial, sans-serif" font-size="11">vulgarhythm</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b27364cc831d973b0b7f9ed031aa" xlink:href="https://i.scdn.co/image/ab67616d0000b27364cc831d973b0b7f9ed031aa" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">HIGHSCHOOL OF THE DEAD</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">KISIDA KYODAN &amp; THE AKEBOSI ROCKETS</text>
-<a href="https://open.spotify.com/track/3zWSQmFru3KFYK4lbWqpgh"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" xlink:href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Hero&#x27;s Come Back!!</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">nobodyknows+</text>
-<a href="https://open.spotify.com/track/7weHG0yOwtAcZ0qBhyODLF"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2735d76a315d0b6616737916871" xlink:href="https://i.scdn.co/image/ab67616d0000b2735d76a315d0b6616737916871" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">STONE OCEAN</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">ichigo from 岸田教団&amp;THE明星ロケッツ</text>
-<a href="https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273bbb0b32c6c96e9ae2ee5c511" xlink:href="https://i.scdn.co/image/ab67616d0000b273bbb0b32c6c96e9ae2ee5c511" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">お手上げサイキクス</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Shiggy Jr.</text>
+<a href="https://open.spotify.com/track/2efgLfjfCTgr5Y0LFSkrlP"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27364cc831d973b0b7f9ed031aa" xlink:href="https://i.scdn.co/image/ab67616d0000b27364cc831d973b0b7f9ed031aa" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">HIGHSCHOOL OF THE DEAD</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">KISIDA KYODAN &amp; THE AKEBOSI ROCKETS</text>
+<a href="https://open.spotify.com/track/3zWSQmFru3KFYK4lbWqpgh"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" xlink:href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Hero&#x27;s Come Back!!</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">nobodyknows+</text>
+<a href="https://open.spotify.com/track/7weHG0yOwtAcZ0qBhyODLF"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
