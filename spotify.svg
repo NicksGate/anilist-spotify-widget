@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b2731c6bc214fc78a2620e5d0fa9" xlink:href="https://i.scdn.co/image/ab67616d0000b2731c6bc214fc78a2620e5d0fa9" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">MoeChakkaFire</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">エレン・ジョー(CV:若山詩音)</text>
-<a href="https://open.spotify.com/track/7pVc3c7kJFVvT25jqByN82"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2730a71779c42d74fa7c890e8fa" xlink:href="https://i.scdn.co/image/ab67616d0000b2730a71779c42d74fa7c890e8fa" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">ムリムリ進化論</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">NANAOAKARI</text>
-<a href="https://open.spotify.com/track/50palGbYA85jbX8y79aqRK"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273e1d983fdd7ad9a41aa78c010" xlink:href="https://i.scdn.co/image/ab67616d0000b273e1d983fdd7ad9a41aa78c010" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">コネクト</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">ClariS</text>
-<a href="https://open.spotify.com/track/3DZG4wc2NQbgjR2m8iXpG1"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" xlink:href="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Come As You Are</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Nirvana</text>
+<a href="https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2731c6bc214fc78a2620e5d0fa9" xlink:href="https://i.scdn.co/image/ab67616d0000b2731c6bc214fc78a2620e5d0fa9" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">MoeChakkaFire</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">エレン・ジョー(CV:若山詩音)</text>
+<a href="https://open.spotify.com/track/7pVc3c7kJFVvT25jqByN82"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2730a71779c42d74fa7c890e8fa" xlink:href="https://i.scdn.co/image/ab67616d0000b2730a71779c42d74fa7c890e8fa" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">ムリムリ進化論</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">NANAOAKARI</text>
+<a href="https://open.spotify.com/track/50palGbYA85jbX8y79aqRK"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
