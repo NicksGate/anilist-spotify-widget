@@ -9,24 +9,23 @@
 <circle cx="666" cy="41" r="4" fill="#1DB954"/>
 <text x="678" y="45" fill="#1DB954" font-family="Arial, sans-serif" font-size="11" font-weight="700">AUTO UPDATE</text>
 <text x="28" y="102" fill="#1DB954" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">NOW PLAYING</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273d71845bf949eb9130ef61481" xlink:href="https://i.scdn.co/image/ab67616d0000b273d71845bf949eb9130ef61481" x="28" y="120" width="138" height="138" preserveAspectRatio="xMidYMid slice"/>
-<a href="https://open.spotify.com/track/6JZ2uj3mIdsxL1gyqtCNE7"><text x="188" y="161" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="25" font-weight="700">灼熱にて純情(wii-wii-woo)</text></a>
-<text x="188" y="190" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="17">Hoshimachi Suisei</text>
-<text x="188" y="222" fill="#1DB954" font-family="Arial, sans-serif" font-size="13">▶ PLAYING NOW</text>
-<text x="188" y="246" fill="#777777" font-family="Arial, sans-serif" font-size="11">Specter</text>
+<rect x="28" y="120" width="138" height="138" rx="8" fill="#282828"/>
+<text x="97" y="190" text-anchor="middle" fill="#777777" font-family="Arial, sans-serif" font-size="14">♫</text>
+<text x="188" y="169" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">Nothing playing right now</text>
+<text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" xlink:href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Hero&#x27;s Come Back!!</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">nobodyknows+</text>
-<a href="https://open.spotify.com/track/7weHG0yOwtAcZ0qBhyODLF"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2734aed36b3d5b60ddcfed42353" xlink:href="https://i.scdn.co/image/ab67616d0000b2734aed36b3d5b60ddcfed42353" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Wrong World</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">TOGENASHI TOGEARI</text>
-<a href="https://open.spotify.com/track/4Mghgr37JNnlFWXbezg3oZ"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273e8db92cad1a2c78473a866ef" xlink:href="https://i.scdn.co/image/ab67616d0000b273e8db92cad1a2c78473a866ef" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">花になって - Be a flower</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ryokuoushoku Shakai</text>
-<a href="https://open.spotify.com/track/0rtlVeGmIPNoz6ztPuM329"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273d71845bf949eb9130ef61481" xlink:href="https://i.scdn.co/image/ab67616d0000b273d71845bf949eb9130ef61481" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">灼熱にて純情(wii-wii-woo)</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Hoshimachi Suisei</text>
+<a href="https://open.spotify.com/track/6JZ2uj3mIdsxL1gyqtCNE7"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" xlink:href="https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Hero&#x27;s Come Back!!</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">nobodyknows+</text>
+<a href="https://open.spotify.com/track/7weHG0yOwtAcZ0qBhyODLF"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2734aed36b3d5b60ddcfed42353" xlink:href="https://i.scdn.co/image/ab67616d0000b2734aed36b3d5b60ddcfed42353" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Wrong World</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">TOGENASHI TOGEARI</text>
+<a href="https://open.spotify.com/track/4Mghgr37JNnlFWXbezg3oZ"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
