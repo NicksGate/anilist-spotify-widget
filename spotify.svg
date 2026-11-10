@@ -9,24 +9,23 @@
 <circle cx="666" cy="41" r="4" fill="#1DB954"/>
 <text x="678" y="45" fill="#1DB954" font-family="Arial, sans-serif" font-size="11" font-weight="700">AUTO UPDATE</text>
 <text x="28" y="102" fill="#1DB954" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">NOW PLAYING</text>
-<image href="https://i.scdn.co/image/ab67616d0000b27390e0bebf528ba26bba48c326" xlink:href="https://i.scdn.co/image/ab67616d0000b27390e0bebf528ba26bba48c326" x="28" y="120" width="138" height="138" preserveAspectRatio="xMidYMid slice"/>
-<a href="https://open.spotify.com/track/2RRlSGydVNuEVn3xazufyd"><text x="188" y="161" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="25" font-weight="700">Boku no Sensou</text></a>
-<text x="188" y="190" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="17">Shinsei Kamattechan</text>
-<text x="188" y="222" fill="#1DB954" font-family="Arial, sans-serif" font-size="13">▶ PLAYING NOW</text>
-<text x="188" y="246" fill="#777777" font-family="Arial, sans-serif" font-size="11">Danchi Thesis</text>
+<rect x="28" y="120" width="138" height="138" rx="8" fill="#282828"/>
+<text x="97" y="190" text-anchor="middle" fill="#777777" font-family="Arial, sans-serif" font-size="14">♫</text>
+<text x="188" y="169" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">Nothing playing right now</text>
+<text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273168da2035a75e56b2f53c0d3" xlink:href="https://i.scdn.co/image/ab67616d0000b273168da2035a75e56b2f53c0d3" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">sugar sweet nightmare</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">物語シリーズ</text>
-<a href="https://open.spotify.com/track/4VTxO7SMtu0AcGqazV15AL"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b27341b28511d668a430b2d07a64" xlink:href="https://i.scdn.co/image/ab67616d0000b27341b28511d668a430b2d07a64" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">君にふれて</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">安月名莉子</text>
-<a href="https://open.spotify.com/track/5vm69oro4cROnjreUg2sy1"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2731c69034e7d1227557287f7f4" xlink:href="https://i.scdn.co/image/ab67616d0000b2731c69034e7d1227557287f7f4" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">BALALAIKA</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">9Lana</text>
-<a href="https://open.spotify.com/track/5jmPdv7WGoWm5KeRM1WIAf"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273b3c96b6326391726d7c11f0e" xlink:href="https://i.scdn.co/image/ab67616d0000b273b3c96b6326391726d7c11f0e" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">つよがるガール - Anime Edit</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">ぼっちぼろまる, もっさ</text>
+<a href="https://open.spotify.com/track/0bMwQabmOnOU37GT94r2MF"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27364381fb5ba549f149ae74560" xlink:href="https://i.scdn.co/image/ab67616d0000b27364381fb5ba549f149ae74560" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Aitakute</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ado</text>
+<a href="https://open.spotify.com/track/0fXWmy6Yfoj2tsKecBToC7"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273acf58f591a0627bc06229c3e" xlink:href="https://i.scdn.co/image/ab67616d0000b273acf58f591a0627bc06229c3e" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">おつかれSUMMER</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">HALCALI</text>
+<a href="https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
