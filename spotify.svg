@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b2734669f677e8be828652297606" xlink:href="https://i.scdn.co/image/ab67616d0000b2734669f677e8be828652297606" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">インスタントヘヴン</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">NANAOAKARI, Eve</text>
-<a href="https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2738acea78bd9714be0e86f1030" xlink:href="https://i.scdn.co/image/ab67616d0000b2738acea78bd9714be0e86f1030" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">燦々デイズ</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">スピラ・スピカ</text>
-<a href="https://open.spotify.com/track/6RFXBsfywZrIGK2PP7m54W"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273d71845bf949eb9130ef61481" xlink:href="https://i.scdn.co/image/ab67616d0000b273d71845bf949eb9130ef61481" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">灼熱にて純情(wii-wii-woo)</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Hoshimachi Suisei</text>
-<a href="https://open.spotify.com/track/6JZ2uj3mIdsxL1gyqtCNE7"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273ddbde6509dae7c73b7c98a1d" xlink:href="https://i.scdn.co/image/ab67616d0000b273ddbde6509dae7c73b7c98a1d" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">BRAVER</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">ZAQ</text>
+<a href="https://open.spotify.com/track/7nZPguzJM1ctACmvG13oG3"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2731658f28be6207cc10a61321b" xlink:href="https://i.scdn.co/image/ab67616d0000b2731658f28be6207cc10a61321b" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">IRON ROSE</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Yousei Teikoku</text>
+<a href="https://open.spotify.com/track/21eddmWKxM60HE0Tw34kLs"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2734669f677e8be828652297606" xlink:href="https://i.scdn.co/image/ab67616d0000b2734669f677e8be828652297606" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">インスタントヘヴン</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">NANAOAKARI, Eve</text>
+<a href="https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
