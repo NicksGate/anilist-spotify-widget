@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb" xlink:href="https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Deceptacon</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Le Tigre</text>
-<a href="https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2737c09e378a0073dcfec7a3e53" xlink:href="https://i.scdn.co/image/ab67616d0000b2737c09e378a0073dcfec7a3e53" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Hotel Room</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ax and the Hatchetmen</text>
-<a href="https://open.spotify.com/track/5p5bK3qF9ttryVxpxJvZYF"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b27333b05d358247bbe9971370f2" xlink:href="https://i.scdn.co/image/ab67616d0000b27333b05d358247bbe9971370f2" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Love Me Not</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ravyn Lenae</text>
-<a href="https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2736d0ca48dd6f32c1967d4cfdb" xlink:href="https://i.scdn.co/image/ab67616d0000b2736d0ca48dd6f32c1967d4cfdb" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">The Sweet Escape</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Gwen Stefani, Akon</text>
+<a href="https://open.spotify.com/track/5BHtT1xpC44pGy1J7RKY4T"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb" xlink:href="https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Deceptacon</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Le Tigre</text>
+<a href="https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2737c09e378a0073dcfec7a3e53" xlink:href="https://i.scdn.co/image/ab67616d0000b2737c09e378a0073dcfec7a3e53" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Hotel Room</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ax and the Hatchetmen</text>
+<a href="https://open.spotify.com/track/5p5bK3qF9ttryVxpxJvZYF"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
