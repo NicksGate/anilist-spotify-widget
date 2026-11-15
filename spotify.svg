@@ -9,24 +9,23 @@
 <circle cx="666" cy="41" r="4" fill="#1DB954"/>
 <text x="678" y="45" fill="#1DB954" font-family="Arial, sans-serif" font-size="11" font-weight="700">AUTO UPDATE</text>
 <text x="28" y="102" fill="#1DB954" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">NOW PLAYING</text>
-<image href="https://i.scdn.co/image/ab67616d0000b27315fb8bbb558441a045fbc281" xlink:href="https://i.scdn.co/image/ab67616d0000b27315fb8bbb558441a045fbc281" x="28" y="120" width="138" height="138" preserveAspectRatio="xMidYMid slice"/>
-<a href="https://open.spotify.com/track/1oFx08aFKXWlxv0hkzb1Ok"><text x="188" y="161" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="25" font-weight="700">I can&#x27;t live without you.</text></a>
-<text x="188" y="190" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="17">BAND-MAID</text>
-<text x="188" y="222" fill="#1DB954" font-family="Arial, sans-serif" font-size="13">▶ PLAYING NOW</text>
-<text x="188" y="246" fill="#777777" font-family="Arial, sans-serif" font-size="11">WORLD DOMINATION</text>
+<rect x="28" y="120" width="138" height="138" rx="8" fill="#282828"/>
+<text x="97" y="190" text-anchor="middle" fill="#777777" font-family="Arial, sans-serif" font-size="14">♫</text>
+<text x="188" y="169" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">Nothing playing right now</text>
+<text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273fb3d6feacb2cd925ee0d3a7b" xlink:href="https://i.scdn.co/image/ab67616d0000b273fb3d6feacb2cd925ee0d3a7b" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">DANGER</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">South Arcade</text>
-<a href="https://open.spotify.com/track/3sJqwv03E6HDTLqaFqlE6I"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" xlink:href="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Bring Me To Life</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Evanescence</text>
-<a href="https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47" xlink:href="https://i.scdn.co/image/ab67616d0000b2733e234c82f96fa4ded8e5ca47" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Sun Killer</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Spiritbox</text>
-<a href="https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273a1c553575418ca43404cb48b" xlink:href="https://i.scdn.co/image/ab67616d0000b273a1c553575418ca43404cb48b" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Cherry Bomb</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">The Runaways</text>
+<a href="https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2736451afb8e2e4978dbdfbb2c5" xlink:href="https://i.scdn.co/image/ab67616d0000b2736451afb8e2e4978dbdfbb2c5" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">お先に失礼します。</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">花冷え。</text>
+<a href="https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27315fb8bbb558441a045fbc281" xlink:href="https://i.scdn.co/image/ab67616d0000b27315fb8bbb558441a045fbc281" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">I can&#x27;t live without you.</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">BAND-MAID</text>
+<a href="https://open.spotify.com/track/1oFx08aFKXWlxv0hkzb1Ok"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
