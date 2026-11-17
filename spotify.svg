@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273a26c4b4be6ac72727eb33a45" xlink:href="https://i.scdn.co/image/ab67616d0000b273a26c4b4be6ac72727eb33a45" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Stuck on You</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Elvis Presley</text>
-<a href="https://open.spotify.com/track/39zODpVtRvghMyfNjZ3BVK"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6" xlink:href="https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Walk</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Pantera</text>
-<a href="https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273053491131955d059d22a97d7" xlink:href="https://i.scdn.co/image/ab67616d0000b273053491131955d059d22a97d7" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">pinKing</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">HOYO-MiX, Sān-Z</text>
-<a href="https://open.spotify.com/track/472uIrS3p6rytyT5uahR7Q"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273bbb0b32c6c96e9ae2ee5c511" xlink:href="https://i.scdn.co/image/ab67616d0000b273bbb0b32c6c96e9ae2ee5c511" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">お手上げサイキクス</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Shiggy Jr.</text>
+<a href="https://open.spotify.com/track/2efgLfjfCTgr5Y0LFSkrlP"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273a26c4b4be6ac72727eb33a45" xlink:href="https://i.scdn.co/image/ab67616d0000b273a26c4b4be6ac72727eb33a45" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Stuck on You</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Elvis Presley</text>
+<a href="https://open.spotify.com/track/39zODpVtRvghMyfNjZ3BVK"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6" xlink:href="https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Walk</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Pantera</text>
+<a href="https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
