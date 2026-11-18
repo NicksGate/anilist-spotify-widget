@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b2730acddc8ccf8d14858fbeddf5" xlink:href="https://i.scdn.co/image/ab67616d0000b2730acddc8ccf8d14858fbeddf5" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">(Sittin&#x27; On) the Dock of the Bay - Mono</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Otis Redding</text>
-<a href="https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273bbb0b32c6c96e9ae2ee5c511" xlink:href="https://i.scdn.co/image/ab67616d0000b273bbb0b32c6c96e9ae2ee5c511" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">お手上げサイキクス</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Shiggy Jr.</text>
-<a href="https://open.spotify.com/track/2efgLfjfCTgr5Y0LFSkrlP"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273a26c4b4be6ac72727eb33a45" xlink:href="https://i.scdn.co/image/ab67616d0000b273a26c4b4be6ac72727eb33a45" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Stuck on You</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Elvis Presley</text>
-<a href="https://open.spotify.com/track/39zODpVtRvghMyfNjZ3BVK"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273668e3aca3167e6e569a9aa20" xlink:href="https://i.scdn.co/image/ab67616d0000b273668e3aca3167e6e569a9aa20" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Master Of Puppets</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Metallica</text>
+<a href="https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" xlink:href="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">I Will Survive - Single Version</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Gloria Gaynor</text>
+<a href="https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2730acddc8ccf8d14858fbeddf5" xlink:href="https://i.scdn.co/image/ab67616d0000b2730acddc8ccf8d14858fbeddf5" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">(Sittin&#x27; On) the Dock of the Bay - Mono</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Otis Redding</text>
+<a href="https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
