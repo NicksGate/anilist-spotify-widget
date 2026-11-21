@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273ab410e9d3b0bb3805960c376" xlink:href="https://i.scdn.co/image/ab67616d0000b273ab410e9d3b0bb3805960c376" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Blood Drain -Again- (Eltnum Theme) - UNI2 Mix</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">来兎</text>
-<a href="https://open.spotify.com/track/6j5h3IbH4GtKN1XAACwy9G"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2735149c948fde506624246a684" xlink:href="https://i.scdn.co/image/ab67616d0000b2735149c948fde506624246a684" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Kingslayer (feat. BABYMETAL)</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Bring Me The Horizon, BABYMETAL</text>
-<a href="https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2737ac841876cee380bbeb3fdc1" xlink:href="https://i.scdn.co/image/ab67616d0000b2737ac841876cee380bbeb3fdc1" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Show</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ado</text>
-<a href="https://open.spotify.com/track/3K4gshVxh3IBi7XRhKZcp8"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2736d0ca48dd6f32c1967d4cfdb" xlink:href="https://i.scdn.co/image/ab67616d0000b2736d0ca48dd6f32c1967d4cfdb" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">The Sweet Escape</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Gwen Stefani, Akon</text>
+<a href="https://open.spotify.com/track/5BHtT1xpC44pGy1J7RKY4T"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273ab410e9d3b0bb3805960c376" xlink:href="https://i.scdn.co/image/ab67616d0000b273ab410e9d3b0bb3805960c376" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Blood Drain -Again- (Eltnum Theme) - UNI2 Mix</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">来兎</text>
+<a href="https://open.spotify.com/track/6j5h3IbH4GtKN1XAACwy9G"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2735149c948fde506624246a684" xlink:href="https://i.scdn.co/image/ab67616d0000b2735149c948fde506624246a684" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Kingslayer (feat. BABYMETAL)</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Bring Me The Horizon, BABYMETAL</text>
+<a href="https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
