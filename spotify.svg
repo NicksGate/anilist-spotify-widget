@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273d2675cb6847d1b1da9fc28a3" xlink:href="https://i.scdn.co/image/ab67616d0000b273d2675cb6847d1b1da9fc28a3" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Holding Out for a Hero - From &quot;Footloose&quot; Soundt</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Bonnie Tyler</text>
-<a href="https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2739da3a5201c6b56b1012a0af4" xlink:href="https://i.scdn.co/image/ab67616d0000b2739da3a5201c6b56b1012a0af4" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">She&#x27;s Not Gone Yet but She&#x27;s Leaving</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">The Fratellis</text>
-<a href="https://open.spotify.com/track/4V1fFZJij2G72iELt517X0"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3" xlink:href="https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">See You Again (feat. Kali Uchis)</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Tyler, The Creator, Kali Uchis</text>
-<a href="https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273030dc4208e26478832531bd4" xlink:href="https://i.scdn.co/image/ab67616d0000b273030dc4208e26478832531bd4" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Northern Attitude (with Hozier)</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Noah Kahan, Hozier</text>
+<a href="https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27343428497e712f542615c0980" xlink:href="https://i.scdn.co/image/ab67616d0000b27343428497e712f542615c0980" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Phantom Liberty</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Dawid Podsiadło, P.T. Adamczyk</text>
+<a href="https://open.spotify.com/track/452nTMj51Dt5P1sSn9bZoN"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831" xlink:href="https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">No One Noticed</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">The Marías</text>
+<a href="https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
