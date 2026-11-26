@@ -9,23 +9,24 @@
 <circle cx="666" cy="41" r="4" fill="#1DB954"/>
 <text x="678" y="45" fill="#1DB954" font-family="Arial, sans-serif" font-size="11" font-weight="700">AUTO UPDATE</text>
 <text x="28" y="102" fill="#1DB954" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">NOW PLAYING</text>
-<rect x="28" y="120" width="138" height="138" rx="8" fill="#282828"/>
-<text x="97" y="190" text-anchor="middle" fill="#777777" font-family="Arial, sans-serif" font-size="14">♫</text>
-<text x="188" y="169" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">Nothing playing right now</text>
-<text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
+<image href="https://i.scdn.co/image/ab67616d0000b2733a23b5d3e7c0e06a94b684c0" xlink:href="https://i.scdn.co/image/ab67616d0000b2733a23b5d3e7c0e06a94b684c0" x="28" y="120" width="138" height="138" preserveAspectRatio="xMidYMid slice"/>
+<a href="https://open.spotify.com/track/4KLnCJ5Jb0KegqgmGYtj0O"><text x="188" y="161" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="25" font-weight="700">レイジョアハンズ!! ～Raise Y/Our Hands!!～ &lt;TVアニメ「私の</text></a>
+<text x="188" y="190" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="17">レイ(CV.芹澤優), クレア(CV.奈波果林)</text>
+<text x="188" y="222" fill="#1DB954" font-family="Arial, sans-serif" font-size="13">▶ PLAYING NOW</text>
+<text x="188" y="246" fill="#777777" font-family="Arial, sans-serif" font-size="11">レイジョアハンズ!! ～Raise Y/Our Hands!!～ &lt;TVアニメ「私の推しは悪役令嬢。」OP主題</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" xlink:href="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Dreams - 2004 Remaster</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Fleetwood Mac</text>
-<a href="https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" xlink:href="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Vienna</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Billy Joel</text>
-<a href="https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985" xlink:href="https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">On Melancholy Hill</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Gorillaz</text>
-<a href="https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273120734724ff398a2d812f982" xlink:href="https://i.scdn.co/image/ab67616d0000b273120734724ff398a2d812f982" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">AIZO</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">King Gnu</text>
+<a href="https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2730a71779c42d74fa7c890e8fa" xlink:href="https://i.scdn.co/image/ab67616d0000b2730a71779c42d74fa7c890e8fa" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">ムリムリ進化論</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">NANAOAKARI</text>
+<a href="https://open.spotify.com/track/50palGbYA85jbX8y79aqRK"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" xlink:href="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">I Will Survive - Single Version</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Gloria Gaynor</text>
+<a href="https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
