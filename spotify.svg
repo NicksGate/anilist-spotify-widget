@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b27358c4833cc8b1a3d6e4890940" xlink:href="https://i.scdn.co/image/ab67616d0000b27358c4833cc8b1a3d6e4890940" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">HandClap</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Fitz and The Tantrums</text>
-<a href="https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b27351bfd009cdf2d5151e916f88" xlink:href="https://i.scdn.co/image/ab67616d0000b27351bfd009cdf2d5151e916f88" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Blood Drain -Again- (Eltnum Theme)</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">来兎</text>
-<a href="https://open.spotify.com/track/2rc5d4JWhkUAqC6V26Apcf"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273ee673b4f041052634bdf9fc0" xlink:href="https://i.scdn.co/image/ab67616d0000b273ee673b4f041052634bdf9fc0" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">sweet rally</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">ilysam, Mc Ster</text>
-<a href="https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4" xlink:href="https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">A Horse with No Name</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">America, George Martin</text>
+<a href="https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273a5ce236c22035a02cf87d4de" xlink:href="https://i.scdn.co/image/ab67616d0000b273a5ce236c22035a02cf87d4de" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Stuck In The Middle With You</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Stealers Wheel</text>
+<a href="https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2735f4604aff952dc7b0a8e511e" xlink:href="https://i.scdn.co/image/ab67616d0000b2735f4604aff952dc7b0a8e511e" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">The Letter</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">The Box Tops</text>
+<a href="https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
