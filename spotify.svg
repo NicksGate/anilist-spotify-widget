@@ -15,17 +15,17 @@
 <text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b27333b05d358247bbe9971370f2" xlink:href="https://i.scdn.co/image/ab67616d0000b27333b05d358247bbe9971370f2" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Love Me Not</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ravyn Lenae</text>
-<a href="https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2737c0a7f8d483d355d834e5cb1" xlink:href="https://i.scdn.co/image/ab67616d0000b2737c0a7f8d483d355d834e5cb1" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Hello Juliet</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Clarion</text>
-<a href="https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b273c7647b55307378a07224786e" xlink:href="https://i.scdn.co/image/ab67616d0000b273c7647b55307378a07224786e" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Catch.</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Logan Levi</text>
-<a href="https://open.spotify.com/track/3zfHV0ksVbRBDQp4O3nwlK"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273a7d1a199d31087f384f9aad5" xlink:href="https://i.scdn.co/image/ab67616d0000b273a7d1a199d31087f384f9aad5" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Bad Apple!!</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">RichaadEB, Cristina Vee</text>
+<a href="https://open.spotify.com/track/3u2TWF5Sr8rdRSfz4fZMfF"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27333b05d358247bbe9971370f2" xlink:href="https://i.scdn.co/image/ab67616d0000b27333b05d358247bbe9971370f2" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Love Me Not</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Ravyn Lenae</text>
+<a href="https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b2737c0a7f8d483d355d834e5cb1" xlink:href="https://i.scdn.co/image/ab67616d0000b2737c0a7f8d483d355d834e5cb1" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Hello Juliet</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Clarion</text>
+<a href="https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
