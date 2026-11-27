@@ -9,23 +9,24 @@
 <circle cx="666" cy="41" r="4" fill="#1DB954"/>
 <text x="678" y="45" fill="#1DB954" font-family="Arial, sans-serif" font-size="11" font-weight="700">AUTO UPDATE</text>
 <text x="28" y="102" fill="#1DB954" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">NOW PLAYING</text>
-<rect x="28" y="120" width="138" height="138" rx="8" fill="#282828"/>
-<text x="97" y="190" text-anchor="middle" fill="#777777" font-family="Arial, sans-serif" font-size="14">♫</text>
-<text x="188" y="169" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">Nothing playing right now</text>
-<text x="188" y="198" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="15">Your recent tracks are below.</text>
+<image href="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" xlink:href="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" x="28" y="120" width="138" height="138" preserveAspectRatio="xMidYMid slice"/>
+<a href="https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"><text x="188" y="161" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="25" font-weight="700">LUNCH</text></a>
+<text x="188" y="190" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="17">Billie Eilish</text>
+<text x="188" y="222" fill="#1DB954" font-family="Arial, sans-serif" font-size="13">▶ PLAYING NOW</text>
+<text x="188" y="246" fill="#777777" font-family="Arial, sans-serif" font-size="11">HIT ME HARD AND SOFT</text>
 <line x1="28" y1="282" x2="772" y2="282" stroke="#303030"/>
 <text x="28" y="313" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">LAST 3 TRACKS</text>
-<image href="https://i.scdn.co/image/ab67616d0000b273f04ed92dca9611bdcd3120b3" xlink:href="https://i.scdn.co/image/ab67616d0000b273f04ed92dca9611bdcd3120b3" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Bullet With Butterfly Wings</text>
-<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">The Smashing Pumpkins</text>
-<a href="https://open.spotify.com/track/0KwS7UzjiMQQCRELu6GStg"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab6742d3000053b7a42dd01b571842930d4094a1" xlink:href="https://i.scdn.co/image/ab6742d3000053b7a42dd01b571842930d4094a1" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Captain Fantastic And The Brown Dirt Cowboy - Ca</text>
-<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Elton John</text>
-<a href="https://open.spotify.com/track/4Lffq6GB5ofsEGBAXkDzEE"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
-<image href="https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550" xlink:href="https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
-<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Rich Girl</text>
-<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Daryl Hall &amp; John Oates</text>
-<a href="https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27358c4833cc8b1a3d6e4890940" xlink:href="https://i.scdn.co/image/ab67616d0000b27358c4833cc8b1a3d6e4890940" x="28" y="333" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="350" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">HandClap</text>
+<text x="84" y="367" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">Fitz and The Tantrums</text>
+<a href="https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz"><text x="765" y="358" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b27377c339de2168c8b893a64407" xlink:href="https://i.scdn.co/image/ab67616d0000b27377c339de2168c8b893a64407" x="28" y="386" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="403" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Stress Relief</text>
+<text x="84" y="420" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">late night drive home</text>
+<a href="https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"><text x="765" y="411" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
+<image href="https://i.scdn.co/image/ab67616d0000b273f04ed92dca9611bdcd3120b3" xlink:href="https://i.scdn.co/image/ab67616d0000b273f04ed92dca9611bdcd3120b3" x="28" y="439" width="40" height="40" preserveAspectRatio="xMidYMid slice"/>
+<text x="84" y="456" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Bullet With Butterfly Wings</text>
+<text x="84" y="473" fill="#B3B3B3" font-family="Arial, sans-serif" font-size="12">The Smashing Pumpkins</text>
+<a href="https://open.spotify.com/track/0KwS7UzjiMQQCRELu6GStg"><text x="765" y="464" text-anchor="end" fill="#1DB954" font-family="Arial, sans-serif" font-size="12">OPEN ↗</text></a>
 <text x="772" y="496" text-anchor="end" fill="#666666" font-family="Arial, sans-serif" font-size="10">POWERED BY SPOTIFY WEB API</text>
 </svg>
